@@ -64,6 +64,8 @@ flutter:
     - assets/images/login_image.jpeg
     - assets/images/hey.png
     - assets/images/myphoto.jpg
+    - assets/images/myphoto1.jpg
+    - assets/catalog.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

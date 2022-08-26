@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/u/c/d/apple-iphone-12-pro-dummyapplefsn-original-imafwgbrzxg3nggd.jpeg?q=70"
+        },
+        {
+            "id": "mayur002",
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhGwmaCevBOZ6b63TAfopDM26CkvWoVon5NvuZtqhyShxIhbkldwEueztcLu2mYydFFl5s3mxoNA&usqp=CAc"
+        },
+        {
+            "id": "mayur003",
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSeC6Yk_LEefZlBwtACI3ZnH6g7cz9qqYtr5NbpN9X7xWfrKXJjXADRjz6Mfl1APWhZx6DANUULlg&usqp=CAc"
+        },
+        {
+            "id": "mayur004",
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://www.designinfo.in/51929-medium_default/playstation5-digital-edition-console-825gb.jpg"
+        },
+        {
+            "id": "mayur005",
+            "name": "Airpods Pro",
+            "desc": "Apple Airpods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ5vSPYMND9IxW-qgfbNW8VHjOtaocmLj7HDafJZMz19OsGmh9hcxPNEXQARwxN293omYSqPwO2CQ&usqp=CAc"
+        },
+        {
+            "id": "mayur006",
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 generation",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQoyuL3VR--eDgfaE-geyvVMvKujCcflDbgGid9N9JoGfAvjAP79dFhqYAxIKTHriWBpASGkfyWbA&usqp=CAc"
+        },
+        {
+            "id": "mayur007",
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6zFazxSul9GzzW4hjhgG_D7cDp2rKaK2pytRDnECNU4jBLQ-1HV0z_-DHjZwV6cROOlS9p-F7I7KMVmwDd52lshoFxwFqEnWWu8Pjatmz5H2Tv4xucCBvtA&usqp=CAc"
+        },
+        {
+            "id": "mayur008",
+            "name": "Galaxy S21",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmCB5hz_JScHtEzISGSfF6qyM5YUyuzyrySrMWqMDJ5YSeCMbN-jDHSwtbjZjU2JesFFqtXvkMfQ&usqp=CAc"
+        }
+    ]
+}
