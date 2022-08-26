@@ -9,7 +9,7 @@
             "image": "https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/u/c/d/apple-iphone-12-pro-dummyapplefsn-original-imafwgbrzxg3nggd.jpeg?q=70"
         },
         {
-            "id": "mayur002",
+            "id": 2,
             "name": "Pixel 5",
             "desc": "Google Pixel phone 5th generation",
             "price": 699,
@@ -17,7 +17,7 @@
             "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhGwmaCevBOZ6b63TAfopDM26CkvWoVon5NvuZtqhyShxIhbkldwEueztcLu2mYydFFl5s3mxoNA&usqp=CAc"
         },
         {
-            "id": "mayur003",
+            "id": 3,
             "name": "M1 Macbook Air",
             "desc": "Apple Macbook air with apple silicon",
             "price": 1099,
@@ -25,7 +25,7 @@
             "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSeC6Yk_LEefZlBwtACI3ZnH6g7cz9qqYtr5NbpN9X7xWfrKXJjXADRjz6Mfl1APWhZx6DANUULlg&usqp=CAc"
         },
         {
-            "id": "mayur004",
+            "id": 4,
             "name": "Playstation 5",
             "desc": "Sony Playstation 5th generation",
             "price": 500,
@@ -33,7 +33,7 @@
             "image": "https://www.designinfo.in/51929-medium_default/playstation5-digital-edition-console-825gb.jpg"
         },
         {
-            "id": "mayur005",
+            "id": 5,
             "name": "Airpods Pro",
             "desc": "Apple Airpods Pro 1st generation",
             "price": 200,
@@ -41,7 +41,7 @@
             "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ5vSPYMND9IxW-qgfbNW8VHjOtaocmLj7HDafJZMz19OsGmh9hcxPNEXQARwxN293omYSqPwO2CQ&usqp=CAc"
         },
         {
-            "id": "mayur006",
+            "id": 6,
             "name": "iPad Pro",
             "desc": "Apple iPad Pro 2020 generation",
             "price": 799,
@@ -49,7 +49,7 @@
             "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQoyuL3VR--eDgfaE-geyvVMvKujCcflDbgGid9N9JoGfAvjAP79dFhqYAxIKTHriWBpASGkfyWbA&usqp=CAc"
         },
         {
-            "id": "mayur007",
+            "id": 7,
             "name": "Galaxy S21 Ultra",
             "desc": "Samsung Galaxy S21 Ultra 2021 edition",
             "price": 1299,
@@ -57,7 +57,7 @@
             "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6zFazxSul9GzzW4hjhgG_D7cDp2rKaK2pytRDnECNU4jBLQ-1HV0z_-DHjZwV6cROOlS9p-F7I7KMVmwDd52lshoFxwFqEnWWu8Pjatmz5H2Tv4xucCBvtA&usqp=CAc"
         },
         {
-            "id": "mayur008",
+            "id": 8,
             "name": "Galaxy S21",
             "desc": "Samsung Galaxy S21 2021 edition",
             "price": 899,
