@@ -18,7 +18,9 @@ class HomeDetailPage extends StatelessWidget {
     return SafeArea(
       bottom: false,
       child: Scaffold(
-        appBar: AppBar(),
+        appBar: AppBar(
+          backgroundColor: Colors.transparent,
+        ),
         backgroundColor: MyTheme.creamColor,
         bottomNavigationBar: Container(
           color: Colors.white,
@@ -29,14 +31,14 @@ class HomeDetailPage extends StatelessWidget {
               "\$${catalog.price}".text.bold.red800.xl4.make(),
               ElevatedButton(
                 onPressed: () {},
-                child: "Buy".text.make(),
+                child: "Add to cart".text.make(),
                 style: ButtonStyle(
                     backgroundColor:
                         MaterialStateProperty.all(MyTheme.darkBluishColor),
                     shape: MaterialStateProperty.all(StadiumBorder())),
-              ).wh(100, 50)
+              ).wh(120, 50)
             ],
-          ).p32(),
+          ).p24(),
         ),
         body: Column(children: [
           Hero(
@@ -63,6 +65,11 @@ class HomeDetailPage extends StatelessWidget {
                         .center
                         .make(),
                     10.heightBox,
+                    "Diam diam at dolores sed sanctus diam, ea stet accusam dolor gubergren tempor sadipscing voluptua, et et dolor magna elitr."
+                        .text
+                        .textStyle(context.captionStyle)
+                        .make()
+                        .p16()
                   ],
                 ).p64(),
               ),
