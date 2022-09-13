@@ -18,11 +18,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     // the 'build' is the method and the first letter of the method should be small.
     return MaterialApp(
-        themeMode: ThemeMode.light,
+        themeMode: ThemeMode.system,
         theme: MyTheme.lightTheme(context),
         darkTheme: MyTheme.darkTheme(context),
         debugShowCheckedModeBanner: false,
-        initialRoute: "/home",
+        initialRoute: "/login",
         routes: {
           "/": (context) =>
               new LoginPage(), //This is class and first letter of class should be capital.
