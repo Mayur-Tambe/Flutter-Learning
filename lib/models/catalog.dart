@@ -1,4 +1,10 @@
 class CatalogModel {
+  static Item getById(int id) =>
+      // ignore: null_closures
+      items.firstWhere((element) => element.id == id, orElse: null);
+
+  static Item getByPosition(int pos) => items[pos];
+
   static List<Item> items = [
     Item(
         id: 1,
@@ -12,7 +18,7 @@ class CatalogModel {
 }
 
 class Item {
-  final int id;
+  late final int id;
   final String name;
   final String desc;
   final num price;

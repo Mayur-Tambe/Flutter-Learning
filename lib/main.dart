@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         theme: MyTheme.lightTheme(context),
         darkTheme: MyTheme.darkTheme(context),
         debugShowCheckedModeBanner: false,
-        initialRoute: "/login",
+        initialRoute: MyRoutes.homeRoute,
         routes: {
           "/": (context) =>
               new LoginPage(), //This is class and first letter of class should be capital.
